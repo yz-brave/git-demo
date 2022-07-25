@@ -17,3 +17,4 @@ hello ,hello Spark;
 hello spark,
 hello,hive
 hello,hbase
+clickhourse
