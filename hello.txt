@@ -15,3 +15,5 @@ hello git ,hello Spark;
 hello git ,hello Spark;
 hello ,hello Spark;
 hello spark,
+hello,hive
+hello,hbase
